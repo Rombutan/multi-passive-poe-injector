@@ -1,0 +1,64 @@
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 326:Plugin executed on: 'linux'
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 327:Plugin executed with python version: '3.10.6 (main, Nov 10 2011, 15:00:00) [GCC 12.1.0]'
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 328:KiCad build version: 6.0.9
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 329:Plugin version: 1.2.5
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 330:Frame repr: <wx._core.Frame object at 0x7f03fb7cf640>
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 354:Preparing replicator with D5 as a reference
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:getting a list of all footprints on board
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 378:source anchor footprint is 'D5'
+Located on: ['Injector Block3']
+With filenames: ['injectorblock.kicad_sch']
+With sheet_id:['Injector Block3']
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 385:Corresponding footprints are 
+[('D4', ['Injector Block2']), ('D5', ['Injector Block3']), ('D3', ['Injector Block1']), ('D1', ['Injector Block'])]
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 397:Showing dialog
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.replicate_layout 357:constructing a list of sheets suitable for replication on level:'Injector Block3', file:'injectorblock.kicad_sch'
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.replicate_layout 394:suitable sheets are:[['Injector Block'], ['Injector Block1'], ['Injector Block2']]
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1314:Level selected: ['Injector Block3']
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1149:Filtering list of tracks
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 403:Toolbar position: wx.Point(1886, 130)
+12-11 20:34:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 409:Dialog position: wx.Point(1522, 130)
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 357:constructing a list of sheets suitable for replication on level:'Injector Block3', file:'injectorblock.kicad_sch'
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 394:suitable sheets are:[['Injector Block'], ['Injector Block1'], ['Injector Block2']]
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 188:Replicating layout
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 203:Starting replication of sheets: [['Injector Block'], ['Injector Block1'], ['Injector Block2']]
+on level: ['Injector Block3']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+12-11 20:34:37 root 266:updating GUI message: 'Preparing for replication'
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 273:Getting the list of source footprints
+12-11 20:34:37 root 271:updating GUI with: 0
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 283:Getting the list of all the remaining footprints
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 290:Getting source tracks
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1149:Filtering list of tracks
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 294:Getting source zones
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 298:Getting source text items
+12-11 20:34:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 302:Getting source drawing items
+12-11 20:34:37 root 266:updating GUI message: 'Replicating footprints'
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 708:Replicating footprints
+12-11 20:34:38 root 271:updating GUI with: 0
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 714:Replicating footprints on sheet ['Injector Block']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 714:Replicating footprints on sheet ['Injector Block1']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 714:Replicating footprints on sheet ['Injector Block2']
+12-11 20:34:38 root 266:updating GUI message: 'Replicating tracks'
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 874:Replicating tracks
+12-11 20:34:38 root 271:updating GUI with: 0
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 880:Replicating tracks on sheet ['Injector Block']
+12-11 20:34:38 root 271:updating GUI with: 1
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 880:Replicating tracks on sheet ['Injector Block1']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 880:Replicating tracks on sheet ['Injector Block2']
+12-11 20:34:38 root 266:updating GUI message: 'Replicating zones'
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 934:Replicating zones
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 941:Replicating zones on sheet ['Injector Block']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 941:Replicating zones on sheet ['Injector Block1']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 941:Replicating zones on sheet ['Injector Block2']
+12-11 20:34:38 root 266:updating GUI message: 'Replicating text'
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Replicating text
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1012:Replicating text on sheet ['Injector Block']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1012:Replicating text on sheet ['Injector Block1']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1012:Replicating text on sheet ['Injector Block2']
+12-11 20:34:38 root 266:updating GUI message: 'Replicating drawings'
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1046:Replicating drawings
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1052:Replicating drawings on sheet ['Injector Block']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1052:Replicating drawings on sheet ['Injector Block1']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1052:Replicating drawings on sheet ['Injector Block2']
+12-11 20:34:38 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 204:Replication complete

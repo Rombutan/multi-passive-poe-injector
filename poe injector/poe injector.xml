@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/Rombutan/Documents/Poe injector/poe injector/poe injector.kicad_sch</source>
+    <date>Sun 11 Dec 2022 06:15:35 PM PST</date>
+    <tool>Eeschema 6.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>poe injector.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>injectorblock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Aux Power/" tstamps="/d03ce65f-56af-4611-b48c-999865bbac4c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>auxpwr.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>injectorblock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>injectorblock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>injectorblock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Aux Power1/" tstamps="/a95b84d2-ad9d-4b80-87b7-d9361f850b22/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>auxpwr.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Aux Power2/" tstamps="/6a9a2f70-f479-4b73-8c98-06044ed9c32c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>auxpwr.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Aux Power3/" tstamps="/8af5e4b8-cbe4-4207-90d4-74621daf4bbc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>auxpwr.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>5557562-1</value>
+      <footprint>custom:TE_5557562-1</footprint>
+      <fields>
+        <field name="Comment">5557562-1</field>
+      </fields>
+      <libsource lib="5557562-1" part="5557562-1" description=""/>
+      <property name="Comment" value="5557562-1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd3611ba-39be-4277-8a1f-0e658b42a84c 4f1d84c8-ae15-4694-8f9b-e6c086513266 ca8ae29a-dbf0-40c7-bc87-da68d89ee9d6 12d0e38d-d90a-433b-8cfe-d7d48c0bbdb0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>5557562-1</value>
+      <footprint>custom:TE_5557562-1</footprint>
+      <fields>
+        <field name="Comment">5557562-1</field>
+      </fields>
+      <libsource lib="5557562-1" part="5557562-1" description=""/>
+      <property name="Comment" value="5557562-1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>908f210b-2c56-40d2-9dd1-20500f99f3a4 ae72c895-8bae-4cb3-a9dd-3d2833f33c82 54e5ac5b-8c26-45b7-b3b6-403bea0f5992 1db44dc5-4861-444c-b04f-0d4beaffd8ee</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>BOOST</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Male" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e41b8b3-636b-4cc2-91c8-0684e123db04</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>MOD_IN</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Male" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1e67037-d527-4ca7-a7a6-35296e11f4f5</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>12v DIRECT</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Male" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>449f044f-7e71-47b8-a4ee-3bbc20b0797e</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>AUX outputs</value>
+      <footprint>custom:WAGO-2604-1108</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Male" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>219d9375-24b6-4a78-8cd6-054291377675</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>PWR IN</value>
+      <footprint>custom:WAGO-2604-1102</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6739243-92ba-4e39-a5d3-d2e9f0082d64</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>SMPS CONN</value>
+      <footprint>custom:WAGO-2604-1104</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="poe injector.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ace27ece-d1ee-4555-a996-057120a82c93</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>9d536f6b-6b90-48e4-9b54-c79df91a0d28</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>d3ea67ce-b996-4399-b3a7-dacf3dff228f</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>CC4</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>cb07c6d0-b36e-43e5-afbf-49be0462584e</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>CC8</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>fd4d5f29-edeb-45d9-a8ee-baf64eca5fec</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>CC7</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>f9f93e32-5310-4b3d-b664-6c17c08d5a70</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>CC5</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>95acae6b-fe98-4357-83a1-69100a99070c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>a3a2d16b-50fb-4211-b40e-8a85894aa441</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>e34f481e-fdcb-4f30-b282-0f499ea642ac</tstamps>
+    </comp>
+    <comp ref="TR1">
+      <value>PT61020EL</value>
+      <footprint>Transformer_SMD:Transformer_Ethernet_Bourns_PT61020EL</footprint>
+      <datasheet>https://www.bourns.com/pdfs/PT61020.pdf</datasheet>
+      <libsource lib="Transformer" part="PT61020EL" description="10/100/1000 Base-T Ethernet Transformer, SMD-24"/>
+      <property name="Sheetname" value="Injector Block"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block/" tstamps="/44c553ef-fb32-4374-b6bd-4decf252801d/"/>
+      <tstamps>085c9448-2acd-455d-8c2b-7965b28bc9a4</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Aux Power"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power/" tstamps="/d03ce65f-56af-4611-b48c-999865bbac4c/"/>
+      <tstamps>07bd5b4b-8525-4808-b877-9bd9909fbfaf</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Aux Power"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power/" tstamps="/d03ce65f-56af-4611-b48c-999865bbac4c/"/>
+      <tstamps>771c9786-23d7-4228-a2c7-0405e7dd108c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power/" tstamps="/d03ce65f-56af-4611-b48c-999865bbac4c/"/>
+      <tstamps>0c7f4c81-38d1-4b4d-8eeb-922436e4f8c5</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power/" tstamps="/d03ce65f-56af-4611-b48c-999865bbac4c/"/>
+      <tstamps>80b1fa04-d248-478e-9d06-94477417dc2d</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>9d536f6b-6b90-48e4-9b54-c79df91a0d28</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>d3ea67ce-b996-4399-b3a7-dacf3dff228f</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>CC4</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>cb07c6d0-b36e-43e5-afbf-49be0462584e</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>CC8</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>fd4d5f29-edeb-45d9-a8ee-baf64eca5fec</tstamps>
+    </comp>
+    <comp ref="JP7">
+      <value>CC7</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>f9f93e32-5310-4b3d-b664-6c17c08d5a70</tstamps>
+    </comp>
+    <comp ref="JP8">
+      <value>CC5</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>95acae6b-fe98-4357-83a1-69100a99070c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>a3a2d16b-50fb-4211-b40e-8a85894aa441</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>e34f481e-fdcb-4f30-b282-0f499ea642ac</tstamps>
+    </comp>
+    <comp ref="TR2">
+      <value>PT61020EL</value>
+      <footprint>Transformer_SMD:Transformer_Ethernet_Bourns_PT61020EL</footprint>
+      <datasheet>https://www.bourns.com/pdfs/PT61020.pdf</datasheet>
+      <libsource lib="Transformer" part="PT61020EL" description="10/100/1000 Base-T Ethernet Transformer, SMD-24"/>
+      <property name="Sheetname" value="Injector Block1"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block1/" tstamps="/dcf9e775-8a0c-4d8a-87fb-0e0bdec3a0fb/"/>
+      <tstamps>085c9448-2acd-455d-8c2b-7965b28bc9a4</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>9d536f6b-6b90-48e4-9b54-c79df91a0d28</tstamps>
+    </comp>
+    <comp ref="F4">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>d3ea67ce-b996-4399-b3a7-dacf3dff228f</tstamps>
+    </comp>
+    <comp ref="JP9">
+      <value>CC4</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>cb07c6d0-b36e-43e5-afbf-49be0462584e</tstamps>
+    </comp>
+    <comp ref="JP10">
+      <value>CC8</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>fd4d5f29-edeb-45d9-a8ee-baf64eca5fec</tstamps>
+    </comp>
+    <comp ref="JP11">
+      <value>CC7</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>f9f93e32-5310-4b3d-b664-6c17c08d5a70</tstamps>
+    </comp>
+    <comp ref="JP12">
+      <value>CC5</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>95acae6b-fe98-4357-83a1-69100a99070c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>a3a2d16b-50fb-4211-b40e-8a85894aa441</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>e34f481e-fdcb-4f30-b282-0f499ea642ac</tstamps>
+    </comp>
+    <comp ref="TR3">
+      <value>PT61020EL</value>
+      <footprint>Transformer_SMD:Transformer_Ethernet_Bourns_PT61020EL</footprint>
+      <datasheet>https://www.bourns.com/pdfs/PT61020.pdf</datasheet>
+      <libsource lib="Transformer" part="PT61020EL" description="10/100/1000 Base-T Ethernet Transformer, SMD-24"/>
+      <property name="Sheetname" value="Injector Block2"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block2/" tstamps="/aff873e7-d034-4368-8b6c-77f6cea97279/"/>
+      <tstamps>085c9448-2acd-455d-8c2b-7965b28bc9a4</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>9d536f6b-6b90-48e4-9b54-c79df91a0d28</tstamps>
+    </comp>
+    <comp ref="F5">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>d3ea67ce-b996-4399-b3a7-dacf3dff228f</tstamps>
+    </comp>
+    <comp ref="JP13">
+      <value>CC4</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>cb07c6d0-b36e-43e5-afbf-49be0462584e</tstamps>
+    </comp>
+    <comp ref="JP14">
+      <value>CC8</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>fd4d5f29-edeb-45d9-a8ee-baf64eca5fec</tstamps>
+    </comp>
+    <comp ref="JP15">
+      <value>CC7</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>f9f93e32-5310-4b3d-b664-6c17c08d5a70</tstamps>
+    </comp>
+    <comp ref="JP16">
+      <value>CC5</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>95acae6b-fe98-4357-83a1-69100a99070c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>a3a2d16b-50fb-4211-b40e-8a85894aa441</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>e34f481e-fdcb-4f30-b282-0f499ea642ac</tstamps>
+    </comp>
+    <comp ref="TR4">
+      <value>PT61020EL</value>
+      <footprint>Transformer_SMD:Transformer_Ethernet_Bourns_PT61020EL</footprint>
+      <datasheet>https://www.bourns.com/pdfs/PT61020.pdf</datasheet>
+      <libsource lib="Transformer" part="PT61020EL" description="10/100/1000 Base-T Ethernet Transformer, SMD-24"/>
+      <property name="Sheetname" value="Injector Block3"/>
+      <property name="Sheetfile" value="injectorblock.kicad_sch"/>
+      <sheetpath names="/Injector Block3/" tstamps="/45e45549-da2e-4561-aebf-8892de01daab/"/>
+      <tstamps>085c9448-2acd-455d-8c2b-7965b28bc9a4</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Aux Power1"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power1/" tstamps="/a95b84d2-ad9d-4b80-87b7-d9361f850b22/"/>
+      <tstamps>07bd5b4b-8525-4808-b877-9bd9909fbfaf</tstamps>
+    </comp>
+    <comp ref="F6">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Aux Power1"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power1/" tstamps="/a95b84d2-ad9d-4b80-87b7-d9361f850b22/"/>
+      <tstamps>771c9786-23d7-4228-a2c7-0405e7dd108c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power1"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power1/" tstamps="/a95b84d2-ad9d-4b80-87b7-d9361f850b22/"/>
+      <tstamps>0c7f4c81-38d1-4b4d-8eeb-922436e4f8c5</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power1"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power1/" tstamps="/a95b84d2-ad9d-4b80-87b7-d9361f850b22/"/>
+      <tstamps>80b1fa04-d248-478e-9d06-94477417dc2d</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Aux Power2"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power2/" tstamps="/6a9a2f70-f479-4b73-8c98-06044ed9c32c/"/>
+      <tstamps>07bd5b4b-8525-4808-b877-9bd9909fbfaf</tstamps>
+    </comp>
+    <comp ref="F7">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Aux Power2"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power2/" tstamps="/6a9a2f70-f479-4b73-8c98-06044ed9c32c/"/>
+      <tstamps>771c9786-23d7-4228-a2c7-0405e7dd108c</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power2"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power2/" tstamps="/6a9a2f70-f479-4b73-8c98-06044ed9c32c/"/>
+      <tstamps>0c7f4c81-38d1-4b4d-8eeb-922436e4f8c5</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power2"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power2/" tstamps="/6a9a2f70-f479-4b73-8c98-06044ed9c32c/"/>
+      <tstamps>80b1fa04-d248-478e-9d06-94477417dc2d</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED_RGB</value>
+      <footprint>LED_SMD:LED_Avago_PLCC6_3x2.8mm</footprint>
+      <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
+      <property name="Sheetname" value="Aux Power3"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power3/" tstamps="/8af5e4b8-cbe4-4207-90d4-74621daf4bbc/"/>
+      <tstamps>07bd5b4b-8525-4808-b877-9bd9909fbfaf</tstamps>
+    </comp>
+    <comp ref="F8">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_2920_7451Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value="Aux Power3"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power3/" tstamps="/8af5e4b8-cbe4-4207-90d4-74621daf4bbc/"/>
+      <tstamps>771c9786-23d7-4228-a2c7-0405e7dd108c</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power3"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power3/" tstamps="/8af5e4b8-cbe4-4207-90d4-74621daf4bbc/"/>
+      <tstamps>0c7f4c81-38d1-4b4d-8eeb-922436e4f8c5</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>600</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value="Aux Power3"/>
+      <property name="Sheetfile" value="auxpwr.kicad_sch"/>
+      <sheetpath names="/Aux Power3/" tstamps="/8af5e4b8-cbe4-4207-90d4-74621daf4bbc/"/>
+      <tstamps>80b1fa04-d248-478e-9d06-94477417dc2d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="5557562-1" part="5557562-1">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">5557562-1</field>
+        <field name="Footprint">TE_5557562-1</field>
+        <field name="Comment">5557562-1</field>
+      </fields>
+      <pins>
+        <pin num="P1_1" name="P1_1" type="passive"/>
+        <pin num="P1_2" name="P1_2" type="passive"/>
+        <pin num="P1_3" name="P1_3" type="passive"/>
+        <pin num="P1_4" name="P1_4" type="passive"/>
+        <pin num="P1_5" name="P1_5" type="passive"/>
+        <pin num="P1_6" name="P1_6" type="passive"/>
+        <pin num="P1_7" name="P1_7" type="passive"/>
+        <pin num="P1_8" name="P1_8" type="passive"/>
+        <pin num="P2_1" name="P2_1" type="passive"/>
+        <pin num="P2_2" name="P2_2" type="passive"/>
+        <pin num="P2_3" name="P2_3" type="passive"/>
+        <pin num="P2_4" name="P2_4" type="passive"/>
+        <pin num="P2_5" name="P2_5" type="passive"/>
+        <pin num="P2_6" name="P2_6" type="passive"/>
+        <pin num="P2_7" name="P2_7" type="passive"/>
+        <pin num="P2_8" name="P2_8" type="passive"/>
+        <pin num="P3_1" name="P3_1" type="passive"/>
+        <pin num="P3_2" name="P3_2" type="passive"/>
+        <pin num="P3_3" name="P3_3" type="passive"/>
+        <pin num="P3_4" name="P3_4" type="passive"/>
+        <pin num="P3_5" name="P3_5" type="passive"/>
+        <pin num="P3_6" name="P3_6" type="passive"/>
+        <pin num="P3_7" name="P3_7" type="passive"/>
+        <pin num="P3_8" name="P3_8" type="passive"/>
+        <pin num="P4_1" name="P4_1" type="passive"/>
+        <pin num="P4_2" name="P4_2" type="passive"/>
+        <pin num="P4_3" name="P4_3" type="passive"/>
+        <pin num="P4_4" name="P4_4" type="passive"/>
+        <pin num="P4_5" name="P4_5" type="passive"/>
+        <pin num="P4_6" name="P4_6" type="passive"/>
+        <pin num="P4_7" name="P4_7" type="passive"/>
+        <pin num="P4_8" name="P4_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Female">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x08_Male">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_RGB">
+      <description>RGB LED, 6 pin package</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_RGB</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RK" type="passive"/>
+        <pin num="2" name="GK" type="passive"/>
+        <pin num="3" name="BK" type="passive"/>
+        <pin num="4" name="BA" type="passive"/>
+        <pin num="5" name="GA" type="passive"/>
+        <pin num="6" name="RA" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transformer" part="PT61020EL">
+      <description>10/100/1000 Base-T Ethernet Transformer, SMD-24</description>
+      <docs>https://www.bourns.com/pdfs/PT61020.pdf</docs>
+      <footprints>
+        <fp>Transformer*Ethernet*Bourns*PT61020EL*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TR</field>
+        <field name="Value">PT61020EL</field>
+        <field name="Footprint">Transformer_SMD:Transformer_Ethernet_Bourns_PT61020EL</field>
+        <field name="Datasheet">https://www.bourns.com/pdfs/PT61020.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TCT1" type="passive"/>
+        <pin num="2" name="TD1+" type="passive"/>
+        <pin num="3" name="TD1-" type="passive"/>
+        <pin num="4" name="TCT2" type="passive"/>
+        <pin num="5" name="TD2+" type="passive"/>
+        <pin num="6" name="TD2-" type="passive"/>
+        <pin num="7" name="TCT3" type="passive"/>
+        <pin num="8" name="TD3+" type="passive"/>
+        <pin num="9" name="TD3-" type="passive"/>
+        <pin num="10" name="TCT4" type="passive"/>
+        <pin num="11" name="TD4+" type="passive"/>
+        <pin num="12" name="TD4-" type="passive"/>
+        <pin num="13" name="MX4-" type="passive"/>
+        <pin num="14" name="MX4+" type="passive"/>
+        <pin num="15" name="MCT4" type="passive"/>
+        <pin num="16" name="MX3-" type="passive"/>
+        <pin num="17" name="MX3+" type="passive"/>
+        <pin num="18" name="MCT3" type="passive"/>
+        <pin num="19" name="MX2-" type="passive"/>
+        <pin num="20" name="MX2+" type="passive"/>
+        <pin num="21" name="MCT2" type="passive"/>
+        <pin num="22" name="MX1-" type="passive"/>
+        <pin num="23" name="MX1+" type="passive"/>
+        <pin num="24" name="MCT1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="5557562-1">
+      <uri>/home/Rombutan/Documents/Poe injector/5557562-1.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/app/extensions/Library/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/app/extensions/Library/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/app/extensions/Library/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Transformer">
+      <uri>/app/extensions/Library/symbols//Transformer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12P">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="D1" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="D2" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="D3" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="D4" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="D5" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="D6" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="D7" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="D8" pin="4" pinfunction="BA" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="3" name="/Aux Power/PWR_OUT">
+      <node ref="D2" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/Aux Power1/PWR_OUT">
+      <node ref="D6" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F6" pin="1" pintype="passive"/>
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/Aux Power2/PWR_OUT">
+      <node ref="D7" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F7" pin="1" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/Aux Power3/PWR_OUT">
+      <node ref="D8" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F8" pin="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/Injector Block/In1">
+      <node ref="J2" pin="P4_1" pinfunction="P4_1" pintype="passive"/>
+      <node ref="TR1" pin="23" pinfunction="MX1+" pintype="passive"/>
+    </net>
+    <net code="8" name="/Injector Block/In2">
+      <node ref="J2" pin="P4_2" pinfunction="P4_2" pintype="passive"/>
+      <node ref="TR1" pin="22" pinfunction="MX1-" pintype="passive"/>
+    </net>
+    <net code="9" name="/Injector Block/In3">
+      <node ref="J2" pin="P4_3" pinfunction="P4_3" pintype="passive"/>
+      <node ref="TR1" pin="20" pinfunction="MX2+" pintype="passive"/>
+    </net>
+    <net code="10" name="/Injector Block/In4">
+      <node ref="J2" pin="P4_4" pinfunction="P4_4" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="11" name="/Injector Block/In5">
+      <node ref="J2" pin="P4_5" pinfunction="P4_5" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="12" name="/Injector Block/In6">
+      <node ref="J2" pin="P4_6" pinfunction="P4_6" pintype="passive"/>
+      <node ref="TR1" pin="19" pinfunction="MX2-" pintype="passive"/>
+    </net>
+    <net code="13" name="/Injector Block/In7">
+      <node ref="J2" pin="P4_7" pinfunction="P4_7" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="14" name="/Injector Block/In8">
+      <node ref="J2" pin="P4_8" pinfunction="P4_8" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="15" name="/Injector Block/Out1">
+      <node ref="J1" pin="P1_1" pinfunction="P1_1" pintype="passive"/>
+      <node ref="TR1" pin="2" pinfunction="TD1+" pintype="passive"/>
+    </net>
+    <net code="16" name="/Injector Block/Out2">
+      <node ref="J1" pin="P1_2" pinfunction="P1_2" pintype="passive"/>
+      <node ref="TR1" pin="3" pinfunction="TD1-" pintype="passive"/>
+    </net>
+    <net code="17" name="/Injector Block/Out3">
+      <node ref="J1" pin="P1_3" pinfunction="P1_3" pintype="passive"/>
+      <node ref="TR1" pin="5" pinfunction="TD2+" pintype="passive"/>
+    </net>
+    <net code="18" name="/Injector Block/Out4">
+      <node ref="J1" pin="P1_4" pinfunction="P1_4" pintype="passive"/>
+      <node ref="TR1" pin="8" pinfunction="TD3+" pintype="passive"/>
+    </net>
+    <net code="19" name="/Injector Block/Out5">
+      <node ref="J1" pin="P1_5" pinfunction="P1_5" pintype="passive"/>
+      <node ref="TR1" pin="9" pinfunction="TD3-" pintype="passive"/>
+    </net>
+    <net code="20" name="/Injector Block/Out6">
+      <node ref="J1" pin="P1_6" pinfunction="P1_6" pintype="passive"/>
+      <node ref="TR1" pin="6" pinfunction="TD2-" pintype="passive"/>
+    </net>
+    <net code="21" name="/Injector Block/Out7">
+      <node ref="J1" pin="P1_7" pinfunction="P1_7" pintype="passive"/>
+      <node ref="TR1" pin="11" pinfunction="TD4+" pintype="passive"/>
+    </net>
+    <net code="22" name="/Injector Block/Out8">
+      <node ref="J1" pin="P1_8" pinfunction="P1_8" pintype="passive"/>
+      <node ref="TR1" pin="12" pinfunction="TD4-" pintype="passive"/>
+    </net>
+    <net code="23" name="/Injector Block1/In1">
+      <node ref="J2" pin="P3_1" pinfunction="P3_1" pintype="passive"/>
+      <node ref="TR2" pin="23" pinfunction="MX1+" pintype="passive"/>
+    </net>
+    <net code="24" name="/Injector Block1/In2">
+      <node ref="J2" pin="P3_2" pinfunction="P3_2" pintype="passive"/>
+      <node ref="TR2" pin="22" pinfunction="MX1-" pintype="passive"/>
+    </net>
+    <net code="25" name="/Injector Block1/In3">
+      <node ref="J2" pin="P3_3" pinfunction="P3_3" pintype="passive"/>
+      <node ref="TR2" pin="20" pinfunction="MX2+" pintype="passive"/>
+    </net>
+    <net code="26" name="/Injector Block1/In4">
+      <node ref="J2" pin="P3_4" pinfunction="P3_4" pintype="passive"/>
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="27" name="/Injector Block1/In5">
+      <node ref="J2" pin="P3_5" pinfunction="P3_5" pintype="passive"/>
+      <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="28" name="/Injector Block1/In6">
+      <node ref="J2" pin="P3_6" pinfunction="P3_6" pintype="passive"/>
+      <node ref="TR2" pin="19" pinfunction="MX2-" pintype="passive"/>
+    </net>
+    <net code="29" name="/Injector Block1/In7">
+      <node ref="J2" pin="P3_7" pinfunction="P3_7" pintype="passive"/>
+      <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="30" name="/Injector Block1/In8">
+      <node ref="J2" pin="P3_8" pinfunction="P3_8" pintype="passive"/>
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="31" name="/Injector Block1/Out1">
+      <node ref="J1" pin="P2_1" pinfunction="P2_1" pintype="passive"/>
+      <node ref="TR2" pin="2" pinfunction="TD1+" pintype="passive"/>
+    </net>
+    <net code="32" name="/Injector Block1/Out2">
+      <node ref="J1" pin="P2_2" pinfunction="P2_2" pintype="passive"/>
+      <node ref="TR2" pin="3" pinfunction="TD1-" pintype="passive"/>
+    </net>
+    <net code="33" name="/Injector Block1/Out3">
+      <node ref="J1" pin="P2_3" pinfunction="P2_3" pintype="passive"/>
+      <node ref="TR2" pin="5" pinfunction="TD2+" pintype="passive"/>
+    </net>
+    <net code="34" name="/Injector Block1/Out4">
+      <node ref="J1" pin="P2_4" pinfunction="P2_4" pintype="passive"/>
+      <node ref="TR2" pin="8" pinfunction="TD3+" pintype="passive"/>
+    </net>
+    <net code="35" name="/Injector Block1/Out5">
+      <node ref="J1" pin="P2_5" pinfunction="P2_5" pintype="passive"/>
+      <node ref="TR2" pin="9" pinfunction="TD3-" pintype="passive"/>
+    </net>
+    <net code="36" name="/Injector Block1/Out6">
+      <node ref="J1" pin="P2_6" pinfunction="P2_6" pintype="passive"/>
+      <node ref="TR2" pin="6" pinfunction="TD2-" pintype="passive"/>
+    </net>
+    <net code="37" name="/Injector Block1/Out7">
+      <node ref="J1" pin="P2_7" pinfunction="P2_7" pintype="passive"/>
+      <node ref="TR2" pin="11" pinfunction="TD4+" pintype="passive"/>
+    </net>
+    <net code="38" name="/Injector Block1/Out8">
+      <node ref="J1" pin="P2_8" pinfunction="P2_8" pintype="passive"/>
+      <node ref="TR2" pin="12" pinfunction="TD4-" pintype="passive"/>
+    </net>
+    <net code="39" name="/Injector Block2/In1">
+      <node ref="J2" pin="P2_1" pinfunction="P2_1" pintype="passive"/>
+      <node ref="TR3" pin="23" pinfunction="MX1+" pintype="passive"/>
+    </net>
+    <net code="40" name="/Injector Block2/In2">
+      <node ref="J2" pin="P2_2" pinfunction="P2_2" pintype="passive"/>
+      <node ref="TR3" pin="22" pinfunction="MX1-" pintype="passive"/>
+    </net>
+    <net code="41" name="/Injector Block2/In3">
+      <node ref="J2" pin="P2_3" pinfunction="P2_3" pintype="passive"/>
+      <node ref="TR3" pin="20" pinfunction="MX2+" pintype="passive"/>
+    </net>
+    <net code="42" name="/Injector Block2/In4">
+      <node ref="J2" pin="P2_4" pinfunction="P2_4" pintype="passive"/>
+      <node ref="JP9" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="43" name="/Injector Block2/In5">
+      <node ref="J2" pin="P2_5" pinfunction="P2_5" pintype="passive"/>
+      <node ref="JP12" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="44" name="/Injector Block2/In6">
+      <node ref="J2" pin="P2_6" pinfunction="P2_6" pintype="passive"/>
+      <node ref="TR3" pin="19" pinfunction="MX2-" pintype="passive"/>
+    </net>
+    <net code="45" name="/Injector Block2/In7">
+      <node ref="J2" pin="P2_7" pinfunction="P2_7" pintype="passive"/>
+      <node ref="JP11" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="46" name="/Injector Block2/In8">
+      <node ref="J2" pin="P2_8" pinfunction="P2_8" pintype="passive"/>
+      <node ref="JP10" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="47" name="/Injector Block2/Out1">
+      <node ref="J1" pin="P3_1" pinfunction="P3_1" pintype="passive"/>
+      <node ref="TR3" pin="2" pinfunction="TD1+" pintype="passive"/>
+    </net>
+    <net code="48" name="/Injector Block2/Out2">
+      <node ref="J1" pin="P3_2" pinfunction="P3_2" pintype="passive"/>
+      <node ref="TR3" pin="3" pinfunction="TD1-" pintype="passive"/>
+    </net>
+    <net code="49" name="/Injector Block2/Out3">
+      <node ref="J1" pin="P3_3" pinfunction="P3_3" pintype="passive"/>
+      <node ref="TR3" pin="5" pinfunction="TD2+" pintype="passive"/>
+    </net>
+    <net code="50" name="/Injector Block2/Out4">
+      <node ref="J1" pin="P3_4" pinfunction="P3_4" pintype="passive"/>
+      <node ref="TR3" pin="8" pinfunction="TD3+" pintype="passive"/>
+    </net>
+    <net code="51" name="/Injector Block2/Out5">
+      <node ref="J1" pin="P3_5" pinfunction="P3_5" pintype="passive"/>
+      <node ref="TR3" pin="9" pinfunction="TD3-" pintype="passive"/>
+    </net>
+    <net code="52" name="/Injector Block2/Out6">
+      <node ref="J1" pin="P3_6" pinfunction="P3_6" pintype="passive"/>
+      <node ref="TR3" pin="6" pinfunction="TD2-" pintype="passive"/>
+    </net>
+    <net code="53" name="/Injector Block2/Out7">
+      <node ref="J1" pin="P3_7" pinfunction="P3_7" pintype="passive"/>
+      <node ref="TR3" pin="11" pinfunction="TD4+" pintype="passive"/>
+    </net>
+    <net code="54" name="/Injector Block2/Out8">
+      <node ref="J1" pin="P3_8" pinfunction="P3_8" pintype="passive"/>
+      <node ref="TR3" pin="12" pinfunction="TD4-" pintype="passive"/>
+    </net>
+    <net code="55" name="/Injector Block3/In1">
+      <node ref="J2" pin="P1_1" pinfunction="P1_1" pintype="passive"/>
+      <node ref="TR4" pin="23" pinfunction="MX1+" pintype="passive"/>
+    </net>
+    <net code="56" name="/Injector Block3/In2">
+      <node ref="J2" pin="P1_2" pinfunction="P1_2" pintype="passive"/>
+      <node ref="TR4" pin="22" pinfunction="MX1-" pintype="passive"/>
+    </net>
+    <net code="57" name="/Injector Block3/In3">
+      <node ref="J2" pin="P1_3" pinfunction="P1_3" pintype="passive"/>
+      <node ref="TR4" pin="20" pinfunction="MX2+" pintype="passive"/>
+    </net>
+    <net code="58" name="/Injector Block3/In4">
+      <node ref="J2" pin="P1_4" pinfunction="P1_4" pintype="passive"/>
+      <node ref="JP13" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="59" name="/Injector Block3/In5">
+      <node ref="J2" pin="P1_5" pinfunction="P1_5" pintype="passive"/>
+      <node ref="JP16" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="60" name="/Injector Block3/In6">
+      <node ref="J2" pin="P1_6" pinfunction="P1_6" pintype="passive"/>
+      <node ref="TR4" pin="19" pinfunction="MX2-" pintype="passive"/>
+    </net>
+    <net code="61" name="/Injector Block3/In7">
+      <node ref="J2" pin="P1_7" pinfunction="P1_7" pintype="passive"/>
+      <node ref="JP15" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="62" name="/Injector Block3/In8">
+      <node ref="J2" pin="P1_8" pinfunction="P1_8" pintype="passive"/>
+      <node ref="JP14" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="63" name="/Injector Block3/Out1">
+      <node ref="J1" pin="P4_1" pinfunction="P4_1" pintype="passive"/>
+      <node ref="TR4" pin="2" pinfunction="TD1+" pintype="passive"/>
+    </net>
+    <net code="64" name="/Injector Block3/Out2">
+      <node ref="J1" pin="P4_2" pinfunction="P4_2" pintype="passive"/>
+      <node ref="TR4" pin="3" pinfunction="TD1-" pintype="passive"/>
+    </net>
+    <net code="65" name="/Injector Block3/Out3">
+      <node ref="J1" pin="P4_3" pinfunction="P4_3" pintype="passive"/>
+      <node ref="TR4" pin="5" pinfunction="TD2+" pintype="passive"/>
+    </net>
+    <net code="66" name="/Injector Block3/Out4">
+      <node ref="J1" pin="P4_4" pinfunction="P4_4" pintype="passive"/>
+      <node ref="TR4" pin="8" pinfunction="TD3+" pintype="passive"/>
+    </net>
+    <net code="67" name="/Injector Block3/Out5">
+      <node ref="J1" pin="P4_5" pinfunction="P4_5" pintype="passive"/>
+      <node ref="TR4" pin="9" pinfunction="TD3-" pintype="passive"/>
+    </net>
+    <net code="68" name="/Injector Block3/Out6">
+      <node ref="J1" pin="P4_6" pinfunction="P4_6" pintype="passive"/>
+      <node ref="TR4" pin="6" pinfunction="TD2-" pintype="passive"/>
+    </net>
+    <net code="69" name="/Injector Block3/Out7">
+      <node ref="J1" pin="P4_7" pinfunction="P4_7" pintype="passive"/>
+      <node ref="TR4" pin="11" pinfunction="TD4+" pintype="passive"/>
+    </net>
+    <net code="70" name="/Injector Block3/Out8">
+      <node ref="J1" pin="P4_8" pinfunction="P4_8" pintype="passive"/>
+      <node ref="TR4" pin="12" pinfunction="TD4-" pintype="passive"/>
+    </net>
+    <net code="71" name="AUX1_IN">
+      <node ref="D2" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D2" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="72" name="AUX2_IN">
+      <node ref="D6" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D6" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F6" pin="2" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="73" name="AUX3_IN">
+      <node ref="D7" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D7" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F7" pin="2" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="74" name="AUX4_IN">
+      <node ref="D8" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D8" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F8" pin="2" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="75" name="GND">
+      <node ref="D1" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="GK" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="TR1" pin="10" pinfunction="TCT4" pintype="passive"/>
+      <node ref="TR1" pin="15" pinfunction="MCT4" pintype="passive"/>
+      <node ref="TR1" pin="18" pinfunction="MCT3" pintype="passive"/>
+      <node ref="TR1" pin="21" pinfunction="MCT2" pintype="passive"/>
+      <node ref="TR1" pin="24" pinfunction="MCT1" pintype="passive"/>
+      <node ref="TR2" pin="10" pinfunction="TCT4" pintype="passive"/>
+      <node ref="TR2" pin="15" pinfunction="MCT4" pintype="passive"/>
+      <node ref="TR2" pin="18" pinfunction="MCT3" pintype="passive"/>
+      <node ref="TR2" pin="21" pinfunction="MCT2" pintype="passive"/>
+      <node ref="TR2" pin="24" pinfunction="MCT1" pintype="passive"/>
+      <node ref="TR3" pin="10" pinfunction="TCT4" pintype="passive"/>
+      <node ref="TR3" pin="15" pinfunction="MCT4" pintype="passive"/>
+      <node ref="TR3" pin="18" pinfunction="MCT3" pintype="passive"/>
+      <node ref="TR3" pin="21" pinfunction="MCT2" pintype="passive"/>
+      <node ref="TR3" pin="24" pinfunction="MCT1" pintype="passive"/>
+      <node ref="TR4" pin="10" pinfunction="TCT4" pintype="passive"/>
+      <node ref="TR4" pin="15" pinfunction="MCT4" pintype="passive"/>
+      <node ref="TR4" pin="18" pinfunction="MCT3" pintype="passive"/>
+      <node ref="TR4" pin="21" pinfunction="MCT2" pintype="passive"/>
+      <node ref="TR4" pin="24" pinfunction="MCT1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="TR1" pin="7" pinfunction="TCT3" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D1-Pad5)">
+      <node ref="D1" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D2-Pad5)">
+      <node ref="D2" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="TR2" pin="7" pinfunction="TCT3" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D3-Pad5)">
+      <node ref="D3" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="TR3" pin="7" pinfunction="TCT3" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D4-Pad5)">
+      <node ref="D4" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="RK" pintype="passive"/>
+      <node ref="F5" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TR4" pin="7" pinfunction="TCT3" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D5-Pad5)">
+      <node ref="D5" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D6-Pad5)">
+      <node ref="D6" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D7-Pad5)">
+      <node ref="D7" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D8-Pad5)">
+      <node ref="D8" pin="5" pinfunction="GA" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(JP1-Pad2)">
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR1" pin="17" pinfunction="MX3+" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(JP2-Pad2)">
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR1" pin="13" pinfunction="MX4-" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(JP3-Pad2)">
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR1" pin="14" pinfunction="MX4+" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(JP4-Pad2)">
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR1" pin="16" pinfunction="MX3-" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(JP5-Pad2)">
+      <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR2" pin="17" pinfunction="MX3+" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(JP6-Pad2)">
+      <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR2" pin="13" pinfunction="MX4-" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(JP7-Pad2)">
+      <node ref="JP7" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR2" pin="14" pinfunction="MX4+" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(JP8-Pad2)">
+      <node ref="JP8" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR2" pin="16" pinfunction="MX3-" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(JP9-Pad2)">
+      <node ref="JP9" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR3" pin="17" pinfunction="MX3+" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(JP10-Pad2)">
+      <node ref="JP10" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR3" pin="13" pinfunction="MX4-" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(JP11-Pad2)">
+      <node ref="JP11" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR3" pin="14" pinfunction="MX4+" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(JP12-Pad2)">
+      <node ref="JP12" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR3" pin="16" pinfunction="MX3-" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(JP13-Pad2)">
+      <node ref="JP13" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR4" pin="17" pinfunction="MX3+" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(JP14-Pad2)">
+      <node ref="JP14" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR4" pin="13" pinfunction="MX4-" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(JP15-Pad2)">
+      <node ref="JP15" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR4" pin="14" pinfunction="MX4+" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(JP16-Pad2)">
+      <node ref="JP16" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TR4" pin="16" pinfunction="MX3-" pintype="passive"/>
+    </net>
+    <net code="104" name="POE1_PWR">
+      <node ref="D1" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D1" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="105" name="POE2_PWR">
+      <node ref="D3" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D3" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F3" pin="2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="106" name="POE3_PWR">
+      <node ref="D4" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D4" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F4" pin="2" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="107" name="POE4_PWR">
+      <node ref="D5" pin="3" pinfunction="BK" pintype="passive"/>
+      <node ref="D5" pin="6" pinfunction="RA" pintype="passive"/>
+      <node ref="F5" pin="2" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="108" name="unconnected-(TR1-Pad1)">
+      <node ref="TR1" pin="1" pinfunction="TCT1" pintype="passive"/>
+    </net>
+    <net code="109" name="unconnected-(TR1-Pad4)">
+      <node ref="TR1" pin="4" pinfunction="TCT2" pintype="passive"/>
+    </net>
+    <net code="110" name="unconnected-(TR2-Pad1)">
+      <node ref="TR2" pin="1" pinfunction="TCT1" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(TR2-Pad4)">
+      <node ref="TR2" pin="4" pinfunction="TCT2" pintype="passive"/>
+    </net>
+    <net code="112" name="unconnected-(TR3-Pad1)">
+      <node ref="TR3" pin="1" pinfunction="TCT1" pintype="passive"/>
+    </net>
+    <net code="113" name="unconnected-(TR3-Pad4)">
+      <node ref="TR3" pin="4" pinfunction="TCT2" pintype="passive"/>
+    </net>
+    <net code="114" name="unconnected-(TR4-Pad1)">
+      <node ref="TR4" pin="1" pinfunction="TCT1" pintype="passive"/>
+    </net>
+    <net code="115" name="unconnected-(TR4-Pad4)">
+      <node ref="TR4" pin="4" pinfunction="TCT2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

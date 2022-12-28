@@ -1,0 +1,11 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8",LED_Avago_PLCC6_3x2.8mm,8,LED_RGB,
+"F1, F2, F3, F4, F5, F6, F7, F8",Fuse_2920_7451Metric,8,Polyfuse,
+"J1, J2",TE_5557562-1,2,5557562-1,
+J3,PinHeader_1x08_P2.54mm_Vertical,1,BOOST,
+J4,PinHeader_1x08_P2.54mm_Vertical,1,MOD_IN,
+J5,PinHeader_1x08_P2.54mm_Vertical,1,12v DIRECT,
+J6,WAGO-2604-1108,1,AUX outputs,
+J7,WAGO-2604-1102,1,PWR IN,
+J8,WAGO-2604-1104,1,SMPS CONN,
+"R1, R10, R11, R12, R13, R14, R15, R16, R2, R3, R4, R5, R6, R7, R8, R9",R_0402_1005Metric,16,600,
